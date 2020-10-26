@@ -8,6 +8,6 @@ https://agnishka.github.io/CSS-loader-animations/
 - 🤔 I’m looking for help with ... JavaScript
 - 💬 Ask me about ... web stuff
 - 📫 How to reach me: ... https://www.linkedin.com/in/agne-plytnikiene/
-- 😄 Pronouns: ... She/her
+- 😄 Fun fact: ... if I could choose I would eat Italian food all the time 
 - ⚡ Personal fact: ... I am Lithuanian, who lives in Switzerland
 
