@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on ... CSS animations:
 https://agnishka.github.io/CSS-loader-animations/
-- 🌱 I’m currently learning ... front-end development
+- 🌱 I’m currently learning ... Adobe Illustrator
 - 👯 I’m looking to collaborate on ... any interesting web project
 - 🤔 I’m looking for help with ... JavaScript
 - 💬 Ask me about ... web stuff
