@@ -8,5 +8,5 @@
 - 💬 Ask me about ... web stuff
 - 📫 How to reach me: ... https://www.linkedin.com/in/agne-plytnikiene/
 - 😄 Pronouns: ... She/her
-- ⚡ One fact: ... I am Lithuanian, who lives in Switzerland
+- ⚡ Personal fact: ... I am Lithuanian, who lives in Switzerland
 
