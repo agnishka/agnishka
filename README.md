@@ -1,7 +1,7 @@
 ### Hi there, nice to see you! 👋
 
 
-- 🔭 I’m currently working on ... CSS animations
+- 🔭 I’m currently working on ... CSS animations:
 https://agnishka.github.io/CSS-loader-animations/
 - 🌱 I’m currently learning ... front-end development
 - 👯 I’m looking to collaborate on ... any interesting web project
